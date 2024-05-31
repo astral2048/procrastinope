@@ -1,6 +1,6 @@
 # ProcrastiNOPE!
 
-ProcrastiNOPE! is a minimal Flutter app designed to end your ever-worsening habit of never doing what needs to be done the most. With simple gamification elemens, itt offers a user-friendly interface to manage tasks effectively while providing motivation through experience points (EXP) and levels. Although still in development, the app aims to incorporate features like notifications, reminders, stat resetting, UI enhancements, and integration with more APIs. 
+ProcrastiNOPE! is a minimal Flutter app designed to end your ever-worsening habit of never doing what needs to be done the most. With simple gamification elements, it offers a user-friendly interface to manage tasks effectively while providing motivation through experience points (EXP) and levels. Although still in development, the app aims to incorporate features like notifications, reminders, stat resetting, UI enhancements, and integration with more APIs. 
 
 ## Features
 
