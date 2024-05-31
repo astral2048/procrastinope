@@ -18,10 +18,15 @@ ProcrastiNOPE! is a minimal Flutter app designed to end your ever-worsening habi
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.jpeg)
-![Screenshot 2](/screenshots/screenshot2.jpeg)
-![Screenshot 3](/screenshots/screenshot3.jpeg)
-![Screenshot 4](/screenshots/screenshot4.jpeg)
+```markdown
+## Screenshots
+
+<img src="/screenshots/screenshot1.png" alt="Screenshot 1" width="300">
+<img src="/screenshots/screenshot2.png" alt="Screenshot 2" width="300">
+<img src="/screenshots/screenshot3.png" alt="Screenshot 3" width="300">
+<img src="/screenshots/screenshot4.png" alt="Screenshot 4" width="300">
+```
+
 
 ## Contributing
 
