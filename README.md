@@ -8,7 +8,6 @@ ProcrastiNOPE! is a minimal Flutter app designed to end your ever-worsening habi
 - Experience Points (EXP): Gain EXP for completing tasks and level up your focus level.
 - Leveling System: Track your progress and productivity with a leveling system.
 - Focus Sessions: Engage in focused work sessions with background music to boost productivity.
-- Modern UI: Sleek and intuitive design for a pleasant user experience.
 
 ## Planned Features
 
@@ -17,26 +16,6 @@ ProcrastiNOPE! is a minimal Flutter app designed to end your ever-worsening habi
 - UI Enhancements: Continuously improve the app's UI for a polished look.
 - More APIs: Integrate with additional APIs for weather updates, task suggestions, and more.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/ProcrastiNOPE.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd ProcrastiNOPE
-   ```
-
-3. Run the app on your device or emulator:
-
-   ```bash
-   flutter run
-   ```
-
 ## Screenshots
 
 ![Screenshot 1](/screenshots/screenshot1.png)
@@ -44,7 +23,7 @@ ProcrastiNOPE! is a minimal Flutter app designed to end your ever-worsening habi
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
+If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
 
 ## License
 
