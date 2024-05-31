@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "469365022703",
+    "project_id": "procrastinope-5753a",
+    "storage_bucket": "procrastinope-5753a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469365022703:android:f27c8a7d10974763aae01a",
+        "android_client_info": {
+          "package_name": "com.lagan.procrastinope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469365022703-jrlh27kpp76jc4dmu9dtnbpuvtc2pjsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lagan.procrastinope",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "469365022703-rgl1ohomaolvbirqb4antq1q27vpmk7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Byed5_gZv1LjrSqlCBxZkLycJKYU0tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469365022703-rgl1ohomaolvbirqb4antq1q27vpmk7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469365022703-8p23h9r602a9ad2drbgruc99hlcsnnv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lagan.procrastinopeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469365022703:android:9412a7f7778f3adeaae01a",
+        "android_client_info": {
+          "package_name": "com.lagan.procrastinope_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469365022703-rgl1ohomaolvbirqb4antq1q27vpmk7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Byed5_gZv1LjrSqlCBxZkLycJKYU0tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469365022703-rgl1ohomaolvbirqb4antq1q27vpmk7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469365022703-8p23h9r602a9ad2drbgruc99hlcsnnv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lagan.procrastinopeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
